@@ -1,0 +1,62 @@
+# Dependencies & build output (also ignored by CLI defaults)
+node_modules
+.next
+out
+build
+coverage
+.turbo
+.vercel
+
+# VCS & editor
+.git
+.idea
+.vscode
+.cursor
+.DS_Store
+*.*~
+
+# Secrets & local env — never deploy
+.env
+.env.*
+*.pem
+*.key
+*.p12
+credentials.json
+secrets/
+
+# Local AI / agent tooling
+.agents
+skills-lock.json
+AGENTS.md
+CLAUDE.md
+
+# Docs & notes (not needed on server)
+*.md
+LICENSE
+
+# Generated / local TS artifacts
+*.tsbuildinfo
+next-env.d.ts
+
+# Lint & logs (not needed for production)
+eslint.config.mjs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Keep Chabokan hooks (chabok-*.sh) — do not ignore them
+
+# Python / misc leftovers
+__pycache__
+.npm
+venv
+bower_components
+
+# CLI config is only used locally before upload
+chabok.json
+
+# Meta files not needed on the server
+.chabokignore
+.gitignore

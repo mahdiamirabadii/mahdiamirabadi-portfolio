@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#bg)"/>
+  <rect x="48" y="48" width="140" height="304" rx="16" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="68" y="84" fill="#ffffff" fill-opacity="0.35" font-family="system-ui,sans-serif" font-size="10" font-weight="600" letter-spacing="0.08em">FILTERS</text>
+  <rect x="68" y="98" width="72" height="10" rx="5" fill="#ffffff" fill-opacity="0.55"/>
+  <rect x="68" y="118" width="100" height="8" rx="4" fill="#ffffff" fill-opacity="0.2"/>
+  <rect x="68" y="138" width="100" height="8" rx="4" fill="#6366f1" fill-opacity="0.45"/>
+  <rect x="68" y="158" width="88" height="8" rx="4" fill="#ffffff" fill-opacity="0.2"/>
+  <rect x="68" y="190" width="72" height="10" rx="5" fill="#ffffff" fill-opacity="0.45"/>
+  <rect x="68" y="210" width="96" height="8" rx="4" fill="#ffffff" fill-opacity="0.18"/>
+  <rect x="68" y="230" width="80" height="8" rx="4" fill="#ffffff" fill-opacity="0.18"/>
+  <rect x="208" y="48" width="384" height="36" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.08"/>
+  <circle cx="228" cy="66" r="6" fill="#818cf8" fill-opacity="0.5"/>
+  <rect x="244" y="60" width="140" height="12" rx="6" fill="#ffffff" fill-opacity="0.25"/>
+  <g>
+    <rect x="208" y="100" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="220" y="112" width="92" height="56" rx="8" fill="#6366f1" fill-opacity="0.25"/>
+    <rect x="220" y="178" width="64" height="8" rx="4" fill="#ffffff" fill-opacity="0.6"/>
+    <rect x="220" y="194" width="40" height="8" rx="4" fill="#818cf8" fill-opacity="0.6"/>
+  </g>
+  <g opacity="0.85">
+    <rect x="336" y="100" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="348" y="112" width="92" height="56" rx="8" fill="#22d3ee" fill-opacity="0.2"/>
+    <rect x="348" y="178" width="72" height="8" rx="4" fill="#ffffff" fill-opacity="0.5"/>
+    <rect x="348" y="194" width="36" height="8" rx="4" fill="#22d3ee" fill-opacity="0.5"/>
+  </g>
+  <g opacity="0.7">
+    <rect x="464" y="100" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <rect x="476" y="112" width="92" height="56" rx="8" fill="#a855f7" fill-opacity="0.2"/>
+    <rect x="476" y="178" width="56" height="8" rx="4" fill="#ffffff" fill-opacity="0.45"/>
+    <rect x="476" y="194" width="44" height="8" rx="4" fill="#a855f7" fill-opacity="0.45"/>
+  </g>
+  <g opacity="0.55">
+    <rect x="208" y="232" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+    <rect x="336" y="232" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+    <rect x="464" y="232" width="116" height="120" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+  </g>
+  <text x="320" y="372" text-anchor="middle" fill="#ffffff" fill-opacity="0.5" font-family="system-ui,sans-serif" font-size="14" font-weight="600">Product Filter</text>
+</svg>

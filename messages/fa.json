@@ -1,0 +1,12 @@
+{
+  "language": {
+    "en": "EN",
+    "fa": "FA",
+    "switch": "تغییر زبان"
+  },
+  "a11y": {
+    "skipToContent": "رفتن به محتوا",
+    "openMenu": "باز کردن منو",
+    "closeMenu": "بستن منو"
+  }
+}

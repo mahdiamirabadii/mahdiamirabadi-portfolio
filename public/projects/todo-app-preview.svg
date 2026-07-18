@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1c1917"/>
+      <stop offset="0.5" stop-color="#431407"/>
+      <stop offset="1" stop-color="#581c87"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#bg)"/>
+  <rect x="140" y="64" width="360" height="272" rx="22" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="168" y="104" fill="#ffffff" fill-opacity="0.85" font-family="system-ui,sans-serif" font-size="20" font-weight="700">Today</text>
+  <rect x="168" y="118" width="304" height="36" rx="10" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="180" y="130" width="120" height="12" rx="6" fill="#ffffff" fill-opacity="0.25"/>
+  <g>
+    <rect x="168" y="172" width="304" height="40" rx="10" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.25"/>
+    <rect x="180" y="186" width="16" height="16" rx="4" fill="#fb923c" fill-opacity="0.5"/>
+    <path d="M184 194l3 3 6-7" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="206" y="186" width="180" height="10" rx="5" fill="#ffffff" fill-opacity="0.35"/>
+  </g>
+  <g opacity="0.8">
+    <rect x="168" y="222" width="304" height="40" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+    <rect x="180" y="236" width="16" height="16" rx="4" stroke="#ffffff" stroke-opacity="0.25"/>
+    <rect x="206" y="236" width="150" height="10" rx="5" fill="#ffffff" fill-opacity="0.55"/>
+  </g>
+  <g opacity="0.65">
+    <rect x="168" y="272" width="304" height="40" rx="10" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.06"/>
+    <rect x="180" y="286" width="16" height="16" rx="4" stroke="#ffffff" stroke-opacity="0.2"/>
+    <rect x="206" y="286" width="130" height="10" rx="5" fill="#ffffff" fill-opacity="0.45"/>
+  </g>
+  <text x="320" y="372" text-anchor="middle" fill="#ffffff" fill-opacity="0.5" font-family="system-ui,sans-serif" font-size="14" font-weight="600">Todo App</text>
+</svg>
